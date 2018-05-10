@@ -1,0 +1,12 @@
+{
+  "name": "telegram-pics-autopost-via-vk",
+  "version": "1.0.0",
+  "description": "Bot for autoposting pics in your channel via vk",
+  "main": "index.js",
+  "author": "TAB_mk",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1",
+	"request": "^2.81.0"
+  }
+}

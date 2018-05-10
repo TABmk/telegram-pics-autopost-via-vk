@@ -1,0 +1,14 @@
+{
+	"token": "",
+	"chat_id": "",
+	"time": "5",
+	"text": "by @TAB_mk",
+	"admin_id": "206402867",
+	"vk_albums": [
+		["-123","123"],
+		["-321","321"]
+	],
+	"add_vk_text": "false",
+	"error": "5",
+	"delay": "2,5"
+}
